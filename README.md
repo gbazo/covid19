@@ -1,5 +1,7 @@
 # Analysis of Covid 19 in Brazil
 
+Article: https://medium.com/@bazot3/advance-of-covid-19-in-brazil-exploring-the-available-data-8e7037179c50
+
 EDA analysis and time series forecasting to explore new Covid-19 in Brazil.
 
 According to wikipedia:
