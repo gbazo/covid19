@@ -24,3 +24,6 @@ https://www.kaggle.com/unanimad/corona-virus-brazil
 
 Article
 https://medium.com/mindstorm-%EF%B8%8F/coletos-e-armazenando-os-n%C3%BAmeros-de-casos-do-coronav%C3%ADrus-no-brasil-73c4f5909514
+
+
+![Covid Prediction Brazil](https://github.com/gbazo/covid19/blob/master/covid_reg_brazil.png)
